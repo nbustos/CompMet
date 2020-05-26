@@ -1,5 +1,4 @@
-# MRI Processing Pipeline Editing
+# MRI Processing/Pipeline Editing
 
 
--BIDS
 
