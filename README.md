@@ -1,4 +1,4 @@
-# MRI Processing/Pipeline Editing
+# Computational Model for neurovascular metabolic states 
 
 
 
